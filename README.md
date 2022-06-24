@@ -44,4 +44,5 @@ FAQ：
 我做不完怎么办？没关系请尽量按点顺序完成
 
 
-完成后，可以发到邮箱：pat@footprint.network
+完成后，命名好邮件，请发PDF文档，发到邮箱：pat@footprint.network
+
